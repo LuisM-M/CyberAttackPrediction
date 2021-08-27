@@ -1,2 +1,2 @@
 # The finished project for a Summer Program called AI4All
-I worked on a team with Anna Huang and Citlali Haro Franco, under the guidance of our mentor: Sean Crawford. We set out to find the correlation between the type of Cyber Attack that affect the US and the time of year in which they happen. We used a clustering algorithm as well as information from https://www.hackmageddon.com/ to find this correlation.
+We used a clustering algorithm as well as information from https://www.hackmageddon.com/ to find this correlation.
